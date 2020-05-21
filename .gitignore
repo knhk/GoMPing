@@ -1,0 +1,5 @@
+﻿.idea
+/pkg/
+/src/vendor/
+/ver.fastping/
+/tempdir/

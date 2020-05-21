@@ -1,0 +1,8 @@
+{
+  "settings": {
+    "show_alias": true,
+    "edit_mode": false,
+    "red_line": 150,
+    "yellow_line": 50
+  }
+}
