@@ -1,0 +1,17 @@
+target_group:
+  - group_name: group1
+    target_host:
+      - hostname: host1
+        ip: 192.168.1.1
+      - hostname: host2
+        ip: 192.168.1.2
+      - hostname: Google DNS
+        ip: 2001:4860:4860::8888
+  - group_name: group2
+    target_host:
+      - hostname: host3
+        ip: 192.168.1.3
+  - group_name: group3
+    target_host:
+      - hostname: host4
+        ip: 192.168.1.4
